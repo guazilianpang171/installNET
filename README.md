@@ -28,7 +28,7 @@ wget --no-check-certificate https://raw.githubusercontent.com/lhie1/installNET/m
 ```
 ## 3. Install OS via script
 
-### a. Linux: Default password is "root1234". Please change it after finishing installation.
+### a. Linux: Default password is "Vicer". Please change it after finishing installation.
 
 Debian 7 x32:
 ```
